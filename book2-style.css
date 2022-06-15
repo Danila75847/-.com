@@ -1,0 +1,196 @@
+.dop{
+  background-color: Gainsboro;
+  margin: 0;
+}
+
+.hs{
+  position: fixed;
+}
+
+.up{
+  margin-top: 0;
+  background-color: Beige;
+  padding: 5px 476px 0px 10px;
+}
+
+.tup{
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 5px 5px 10px;
+}
+
+.a-tup{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding-left: 400px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: 700;
+}
+
+.a-tup:hover{
+  color:SandyBrown;
+}
+
+.a-tup2{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding-left: 50px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: 700;
+}
+
+.a-tup2:hover{
+  color: SandyBrown;
+}
+
+.iop2{
+  max-width: 75%;
+  margin: auto;
+  background-color: white;
+  /* padding-top: 50px; */
+  height: 3800px;
+}
+
+.sh{
+  font-size: 20px;
+  font-family: Verdana, Geneva, sans-serif;
+  padding-left: 10px;
+}
+
+.sa{
+  padding-left: 10px;
+}
+
+.ss{
+  font-family: Verdana, Geneva, sans-serif;
+  padding-left: 20px;
+}
+
+.ss-2{
+  font-family: Verdana, Geneva, sans-serif;
+  margin-left: 20em;
+  margin-right: 5em;
+}
+
+.sta{
+  text-decoration: none;
+  color: black;
+}
+
+.sta:hover{
+  color: SandyBrown;
+}
+
+.sp-2{
+  font-family: Verdana, Geneva, sans-serif;
+  margin-left: 28em;
+}
+
+.style-a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.style-a2{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 30px;
+}
+
+.sah:hover{
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.sah-2:hover{
+  color: SandyBrown;
+}
+
+.iop{
+  max-width: 80%;
+  margin: auto;
+  /* background-color: white; */
+  padding-top: 40px;
+}
+
+.tup-2s2{
+  background-color: DarkSlateGray;
+  height:300px;
+}
+
+.tup6{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: 700;
+}
+
+.tup6:hover{
+  color: grey;
+}
+
+.tup7{
+  font-size: 20px;
+  font-family: Verdana, Geneva, sans-serif;
+  padding-left: 60px;
+}
+
+.s_tel{
+  text-decoration: none;
+  color: black;
+  padding-left: 60px;
+}
+
+.s_tel:hover{
+  color: grey;
+}
+
+.s_info{
+  text-decoration: none;
+  color: black;
+  padding-left: 60px;
+}
+
+.s_info:hover{
+  color: grey;
+}
+
+.s_VK{
+  text-decoration: none;
+  color: black;
+  padding-left: 60px;
+}
+
+.s_VK:hover{
+  color: grey;
+}
+
+.s_presa{
+  text-decoration: none;
+  color: black;
+  padding-left: 60px;
+}
+
+.s_presa:hover{
+  color: grey;
+}
+
+.s_T{
+  text-decoration: none;
+  color: black;
+  padding-left: 60px;
+}
+
+.s_T:hover{
+  color: grey;
+}
